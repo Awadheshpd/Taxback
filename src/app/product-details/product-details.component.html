@@ -1,0 +1,19 @@
+
+
+
+<mat-dialog-content class="mat-typography">
+
+    <div>
+        <div class="left-panel"></div>
+        <div class="right-panel">
+            <h3 class="product-item-name">{{data.name}}</h3>
+            <span>Item #: 701642853695 </span>
+            <div class="product-item-price">
+                <span class="original-item-price" [class.strikethrough]="data.discountPrice > 0">{{data.price | currency}}</span>
+                <span class="discount-item-price" *ngIf="data.discountPrice > 0">{{data.discountPrice | currency}}</span>
+            </div>
+            <div>{{data.description}}</div>
+            <button mat-raised-button class="add-to-cart-button">ADD TO CART</button>
+        </div>
+    </div>
+</mat-dialog-content>

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "PRODUCT NAME 1",
+        "price": 29.59,
+        "discountPrice": 19.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisi accumsan, blandit odio id, condimentum metus. Nunc convallis ex ac lacus finibus, sagittis tristique libero vestibulum. Donec in lorem eget dolor sodales efficitur. Etiam vel congue lectus. Aenean commodo lacinia est."
+    },
+    {
+        "name": "PRODUCT NAME 2",
+        "price": 32.99,
+        "discountPrice": 26.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisi accumsan, blandit odio id, condimentum metus. Nunc convallis ex ac lacus finibus, sagittis tristique libero vestibulum. Donec in lorem eget dolor sodales efficitur. Etiam vel congue lectus. Aenean commodo lacinia est."
+    },
+    {
+        "name": "PRODUCT NAME 3",
+        "price": 9.99,
+        "discountPrice": 0,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisi accumsan, blandit odio id, condimentum metus. Nunc convallis ex ac lacus finibus, sagittis tristique libero vestibulum. Donec in lorem eget dolor sodales efficitur. Etiam vel congue lectus. Aenean commodo lacinia est."
+    },
+    {
+        "name": "PRODUCT NAME 4",
+        "price": 52.99,
+        "discountPrice": 0,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisi accumsan, blandit odio id, condimentum metus. Nunc convallis ex ac lacus finibus, sagittis tristique libero vestibulum. Donec in lorem eget dolor sodales efficitur. Etiam vel congue lectus. Aenean commodo lacinia est."
+    },
+    {
+        "name": "PRODUCT NAME 5",
+        "price": 69.99,
+        "discountPrice": 39.99,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisi accumsan, blandit odio id, condimentum metus. Nunc convallis ex ac lacus finibus, sagittis tristique libero vestibulum. Donec in lorem eget dolor sodales efficitur. Etiam vel congue lectus. Aenean commodo lacinia est."
+    },
+    {
+        "name": "PRODUCT NAME 6",
+        "price": 34.99,
+        "discountPrice": 0,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisi accumsan, blandit odio id, condimentum metus. Nunc convallis ex ac lacus finibus, sagittis tristique libero vestibulum. Donec in lorem eget dolor sodales efficitur. Etiam vel congue lectus. Aenean commodo lacinia est."
+    }
+]

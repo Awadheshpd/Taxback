@@ -1,0 +1,11 @@
+<h3>Product cards</h3>
+
+<div class="products-container">
+  <div *ngFor="let product of products" class="product-item">
+    <span class="show-more-panel" (click)="openDialog(product)">SHOW MORE</span>
+    <span class="product-price">
+      <span class="original-price" [class.strikethrough]="product.discountPrice > 0">{{product.price | currency}}</span>
+      <span class="discount-price" *ngIf="product.discountPrice > 0">{{product.discountPrice | currency}}</span>
+    </span>
+  </div>
+</div>
